@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/jshlbrd/release-please-example/compare/v1.1.0...v2.0.0) (2022-04-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* test renamed to math (#5)
+
+### Miscellaneous Chores
+
+* test renamed to math ([#5](https://github.com/jshlbrd/release-please-example/issues/5)) ([44fb359](https://github.com/jshlbrd/release-please-example/commit/44fb359ba4d770daae886d14fcc41d432f2bc67f))
+
 ## [1.1.0](https://github.com/jshlbrd/release-please-example/compare/v1.0.0...v1.1.0) (2022-04-19)
 
 
