@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jshlbrd/release-please-example/compare/v1.0.0...v1.1.0) (2022-04-19)
+
+
+### Features
+
+* feature2 ([#3](https://github.com/jshlbrd/release-please-example/issues/3)) ([a09dbd1](https://github.com/jshlbrd/release-please-example/commit/a09dbd1641ab237cdcfcd45ddcfa0ff609bc8e0f))
+
 ## 1.0.0 (2022-04-19)
 
 
