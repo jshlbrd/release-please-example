@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-alpha](https://github.com/jshlbrd/release-please-example/compare/v2.0.0...v2.1.0-alpha) (2023-07-17)
+
+
+### Features
+
+* Added Mod function ([a94802f](https://github.com/jshlbrd/release-please-example/commit/a94802f7229ee22779711e53f502e69fc9cdb0eb))
+
 ## [2.0.0](https://github.com/jshlbrd/release-please-example/compare/v1.1.0...v2.0.0) (2022-04-19)
 
 
